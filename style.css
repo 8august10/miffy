@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+
+#loginForm {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  #loginForm label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  #loginForm input[type="text"],
+  #loginForm input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+  
+  #loginForm button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  #alertMessage {
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  }
+
+  #loginForm button[type="submit"] {
+    font-family: 'Indie Flower', cursive;
+  }
