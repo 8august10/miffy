@@ -45,3 +45,10 @@
   #loginForm button[type="submit"] {
     font-family: 'Indie Flower', cursive;
   }
+
+  /* Styles for text in miffy.html */
+  #miffyText {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+  }
